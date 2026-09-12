@@ -237,4 +237,4 @@ This repository serves as the official landing page for **GTA 2**. The software 
 **Get the most recent version of GTA 2 today!**
 
 ---
-**Last updated:** 2026-09-11 22:25:40 UTC
+**Last updated:** 2026-09-12 01:00:41 UTC
